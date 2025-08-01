@@ -4,9 +4,7 @@ tell me the difference pls:
 1. int main(void)
 
 {
-
-    printf("Hello, world!\n");
-    
+    printf("Hello, world!\n");  
 } 
 
 and
